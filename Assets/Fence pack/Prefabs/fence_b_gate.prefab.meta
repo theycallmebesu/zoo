@@ -1,15 +1,7 @@
 fileFormatVersion: 2
-guid: 97ff22a5981f9a748b91d3f26a779100
-timeCreated: 1428607988
-licenseType: Store
-NativeFormatImporter:
+guid: 06a0f9086946bc1438d1bb8ce857b4e5
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 34359
-  packageName: Modular Fences pack
-  packageVersion: 1.1
-  assetPath: Assets/Fence pack/Prefabs/fence_b_gate.prefab
-  uploadId: 60021

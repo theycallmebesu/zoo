@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: 92928977c5ca57245a97725925b9fe28
+guid: 4fea5530d5f7121488ee367ffe001543
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 2100000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 128318
-  packageName: NoirMat - Marble Pack Vol. 01
-  packageVersion: 1.0
-  assetPath: Assets/NoirMarblePack01/Assets/Materials/Marble-02.mat
-  uploadId: 266401
